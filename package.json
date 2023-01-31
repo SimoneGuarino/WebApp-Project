@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/SimoneGuarino/WebApp-Project/issues"
   },
-  "homepage": "https://github.com/SimoneGuarino/WebApp-Project#readme"
+  "homepage": "https://github.com/SimoneGuarino/WebApp-Project#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
